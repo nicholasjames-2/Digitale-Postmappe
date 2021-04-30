@@ -13,7 +13,7 @@
 		<!-- META END -->
 		<!-- Sonstiges Wichtiges -->
 			<title>Digitale Postmappe</title>
-			<link rel="stylesheet" href="/css/front-end.css">
+			<link rel="stylesheet" href="/css/style-front-end.css">
 		<!-- Sonstiges Wichtiges END -->
 	</head>
 	<body>
