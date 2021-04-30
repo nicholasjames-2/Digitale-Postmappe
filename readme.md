@@ -5,5 +5,7 @@
 
 Benötigte Resourcen:
 
-PHP: Egal
-MySQL: Egal
+
+Webserver:	Apache oder Ngix
+PHP Ver.:	Unrelevant
+MySQL Ver.:	Unrelevant
